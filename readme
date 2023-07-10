@@ -1,0 +1,6 @@
+--Written in plain JavaScript, HTML, CSS
+--Store upto 10 high score records in Local Storage
+-- Integrated API for random questions UI
+
+--Hosted Netlify Link
+https://quiz-app-ui.netlify.app/
